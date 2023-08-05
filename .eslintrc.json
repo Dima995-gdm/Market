@@ -15,5 +15,10 @@
         "vue"
     ],
     "rules": {
+        "indent": ["error", "tab"],
+        "vue/html-indent": ["error", "tab"],
+        "quotes": ["error", "single"],
+        "semi": ["error", "always"],
+        "vue/multi-word-component-names": 0
     }
 }
